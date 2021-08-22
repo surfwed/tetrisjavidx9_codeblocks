@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+// Tam thoi minh se choi voi khoi tetris (4x4)
+// Nghia la co 4 hang va 4 cot
 int const numOfRow = 4;
 int const numOfColumn = 4;
 
